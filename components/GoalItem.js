@@ -26,7 +26,7 @@ const styles = StyleSheet.create({
     fontSize: 16,
     fontWeight: '500',
     color: '#ffffff',
-    padding: 8,
+    padding: 16,
   },
   pressedItem: {
     opacity: 0.5,
