@@ -14,9 +14,9 @@ export default function App() {
   };
 
   const deleteGoalHandler = (goalId) => {
-    setCourseGoals((currentGoals) => {
-      return currentGoals.filter((goal) => goal.id !== goalId);
-    });
+    // setCourseGoals((currentGoals) => {
+    //   return currentGoals.filter((goal) => goal.id !== goalId);
+    // });
   };
 
   return (
